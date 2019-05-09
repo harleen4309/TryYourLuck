@@ -1,0 +1,17 @@
+div{
+        width:200px;
+        height:200px;
+        background-color:green;
+        margin:20px;
+        float:left;
+      }
+    
+      .boom{
+        background-color:red;
+      }
+      .safe{
+        background-color:lightblue;
+      }
+      #end{
+        background-color:black;
+      }
